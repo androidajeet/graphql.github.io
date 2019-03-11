@@ -42,7 +42,7 @@ var logos = [
     link: 'https://www.coursera.org/'
   },
   {
-    name: 'Pinterest',
+    name: 'Pinterest ajeet',
     img: 'pinterest.png',
     isRound: true,
     link: 'https://www.pinterest.com/'
